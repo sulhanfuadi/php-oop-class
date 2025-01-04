@@ -5,6 +5,7 @@ This repository contains code written to learn **Object-Oriented Programming (OO
 ---
 
 ## 🎯 **About the Class**
+
 - **Class Name**: Konsep Dasar Pemrograman Berorientasi Objek di PHP
 - **Platform**: CodePolitan
 - **Method**: Online Self-paced Learning
@@ -13,17 +14,19 @@ This repository contains code written to learn **Object-Oriented Programming (OO
 ---
 
 ## 📝 **Syllabus**
+
 ### **Topic 1: Basics of OOP**
+
 1. What is OOP
 2. Defining a Class
 3. Understanding Instance Object
 4. Properties in OOP Class
 5. Methods in OOP Class
 6. Using Objects
-7. Understanding Inheritance
-8. Defining Subclass
+7. Inheritance
 
 ### **Topic 2: Advanced Concepts**
+
 1. Extend and Override
 2. Encapsulation (Object Visibility)
 3. Setter and Getter
@@ -39,6 +42,7 @@ This repository contains code written to learn **Object-Oriented Programming (OO
 ---
 
 ## 🚀 **How to Use This Repository**
+
 1. Clone this repository:
    ```bash
    git clone https://github.com/username/php-oop-essentials.git
