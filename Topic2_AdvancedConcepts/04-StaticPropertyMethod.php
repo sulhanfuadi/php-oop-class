@@ -26,6 +26,12 @@ class Student
 
 // cara mengakses static property dan method
 // menggunakan class name, bukan object
+echo Student::$angka; // 1
+echo '<br>';
 echo Student::halo(); // Halo 1 kali.
-echo Student::halo(); // Halo 2 kali.
+echo '<br>';
 echo Student::$angka; // 2
+echo '<br>';
+echo Student::halo(); // Halo 2 kali.
+echo '<br>';
+echo Student::$angka; // 3
